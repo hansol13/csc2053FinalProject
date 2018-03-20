@@ -1,0 +1,8 @@
+clientID:
+677299231836-r12ginhovl3r7nn0n63inm7k3tam11ia.apps.googleusercontent.com
+
+clientSecret:
+VYBSmdIceM3HVZiCxXfQwG8e
+
+APIKey:
+AIzaSyCUxwvGOvVr1kKe8lvdz9SjTjREZxDAYs0
